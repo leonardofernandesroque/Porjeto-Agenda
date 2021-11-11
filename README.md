@@ -1,2 +1,2 @@
 # Porjeto-Agenda
-Projeto usando node, js e json
+Projeto usando node, json, mongoDb e json
